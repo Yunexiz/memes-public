@@ -1,0 +1,5 @@
+discord.py
+requests
+python-dotenv
+Flask
+psutil==5.8.0
